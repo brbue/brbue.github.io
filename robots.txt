@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brbue.github.io/FYt/sitemap.FYt.gz
